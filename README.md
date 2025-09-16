@@ -51,7 +51,7 @@ It features smooth scrolling, AOS animations, interactive gallery filtering, res
    git clone https://github.com/qasimzahoor825/Golden fork-Restauranta.git
 Navigate to the project folder:
 
-cd savora
+cd GoldenFork
 Open index.html in your browser.
 
 📷 Preview
@@ -66,3 +66,4 @@ Bootstrap 5 for responsive design
 AOS.js for animations
 
 Bootstrap Icons for icons
+
